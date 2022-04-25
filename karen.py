@@ -27,4 +27,4 @@ def speak(text):
     engine.runAndWait()
 
 
-speak("stupid raima stupid raima stupid raima stupid raima stupid raima stupid raima stupid raima stupid raima stupid raima stupid raima stupid raima")
+speak("pacman pacman")
